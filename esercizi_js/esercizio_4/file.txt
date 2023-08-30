@@ -1,0 +1,5 @@
+ES4
+
+Scrivere una funzione che prenda in ingresso 
+un array di numeri e mi restituisca 
+un nuovo array con i numeri triplicati

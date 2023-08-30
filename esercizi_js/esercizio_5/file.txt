@@ -1,0 +1,9 @@
+ES5
+
+Scrivere una funzione che prenda in ingresso 
+un array di numeri e mi restituisca 
+un nuovo array che contenga soltanto 
+i numeri multipli di 10 
+
+Es. arr = [1, 10, 56, 130, 45] 
+output = [10, 130]

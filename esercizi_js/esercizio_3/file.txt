@@ -1,0 +1,9 @@
+ES3
+
+Scrivere una funzione che prenda in ingresso un array di nomi 
+e mi restituisca l'array con i nomi in ordine alfabetico capovolto. 
+
+
+Es. arr = ['Matteo', 'Anakin', 'Luke', 'ObiWan'] 
+
+output = ['ObiWan', 'Matteo', 'Luke', 'Anakin']

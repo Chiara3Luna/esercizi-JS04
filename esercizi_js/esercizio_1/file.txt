@@ -1,0 +1,12 @@
+ES1
+Scrivere una funzione che dato un array di numeri,
+calcoli la media dei valori e restituisca in output 
+un nuovo array con tutti i valori minori della media.
+
+Esempio: Input: a = [3, 5, 10, 2, 8] 
+
+Output: media = 5.6, valori minori della media= [3, 5, 2] 
+
+
+Extra: Stampare anche quanti sono i valori minori della media e quanti quelli maggiori della media.
+

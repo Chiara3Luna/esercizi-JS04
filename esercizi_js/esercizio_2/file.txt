@@ -1,0 +1,9 @@
+ES2:
+
+Scrivere una funzione che prenda in ingresso 
+due array e mi restituisca 
+un nuovo array che sia 
+la concatenazione dei primi due. 
+
+
+Es. arr1 = [1,2,3] arr2 = [4,5,6] output = [1,2,3,4,5,6]
